@@ -1,4 +1,4 @@
-Sure! Here is your entire README file **cleaned and fixed** — I removed the two `---` lines that cause the YAML parsing error and left the rest untouched:
+
 
 ````markdown
 # 🏠 LandlordApp
