@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107171479020",
+    "project_id": "landlordapp-608f2",
+    "storage_bucket": "landlordapp-608f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107171479020:android:389d017bd6260c526114c9",
+        "android_client_info": {
+          "package_name": "com.example.navigationuidemo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgMg2emU01DuVaGIxOgNKAJCGaZ6ZQmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
